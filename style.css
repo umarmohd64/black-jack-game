@@ -22,7 +22,7 @@ button{
 
 }
 .main-bg{
-    background:url("./images/blackjackbg.jpg");
+    background:url('./images/blackjackbg.jpg');
     height: 100vh;
     width: 100%;
     background-size: cover;
